@@ -1,0 +1,6 @@
+# Ignore all files and folders....
+*
+
+#... except this
+!.gitignore
+!game/saves/*
